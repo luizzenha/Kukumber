@@ -1,5 +1,5 @@
 # Kukumber
-Cucumber for kotlin
+Exemplo de projeto utiliazndo cucumber no kotlin
 
 Instalar o plugin do IntelliJ:
 
